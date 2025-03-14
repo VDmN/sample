@@ -1,1 +1,3 @@
-# sample
+# sample hello world!
+
+проект шифр
